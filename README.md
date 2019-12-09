@@ -13,4 +13,4 @@ TODO:
 - Check for more inclement weather conditions (snow, hail, sleet, etc)
 - Add user wardrobe
 - Suggest appropriate clothing from wardrobe
-- Show clothing and accessory images
+- Display clothing and accessory images
